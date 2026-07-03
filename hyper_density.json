@@ -1,0 +1,14 @@
+{
+  "project_id": "tapinambur-hardware-nexus",
+  "security_level": "OMEGA_LOCK",
+  "system_parameters": {
+    "frequency": 14.13,
+    "target_brand": "Tapinambur Logic",
+    "mode": "Anti-Calculator",
+    "root_id": "UNIT_ROOT_77"
+  },
+  "meta_signature": {
+    "owner": "Markys Gariboldo",
+    "gateway": "Logopotopo@gmail.com"
+  }
+}
