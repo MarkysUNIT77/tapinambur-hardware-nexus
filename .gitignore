@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# System and legacy noise isolation
+corporate_burnout/
+kpi_legacy_reports/
+depressive_noise_cloud/
+/legacy_dust/
+
+# Environments
+.env
+.venv
+env/
+venv/
